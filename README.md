@@ -9,7 +9,7 @@ Merhaba! Bu, Counter-Strike 2 (CS2) için geliştirilmiş basit ve kullanışlı
 - Hafif ve hızlı çalışır, sunucunuzu yormaz.
 
 ## Kurulum
-1. Plugini indirin ve sunucunuzun `cs2/addons/counterstrikesharp/plugins` klasörüne yerleştirin `varkit-kaccm` adlı klasör açıp yerleştirin.
+1. Plugini `Release` kısmından indirin ve sunucunuzun `cs2/addons/counterstrikesharp/plugins` klasörüne yerleştirin `varkit-kaccm` adlı klasör açıp yerleştirin.
 2. Sunucunuzu yeniden başlatın.
 3. Config dosyasını `cs2/addons/counterstrikesharp/configs/plugins/varkit-kaccm` yolunda bulabilirsiniz.
 
